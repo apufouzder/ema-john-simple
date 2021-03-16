@@ -1,0 +1,54 @@
+button.googleSingIn {
+    background: linear-gradient(
+      45deg
+      , #175ed4, #0fa236);
+    color: white;
+    padding: 10px 30px;
+    font-size: 20px;
+    border: none;
+    border-radius: 3px;
+    margin-top: 40px;
+    margin-bottom: 15px;
+    cursor: pointer;
+  }
+  button.fbSingIn {
+    background: #097deb;
+    padding: 10px 30px;
+    font-size: 20px;
+    color: white;
+    border: 1px solid #0066c7;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .input-field {
+    padding: 10px;
+    width: 300px;
+    margin-bottom: 20px;
+    border: none;
+    background: white;
+    border-radius: 3px;
+    box-shadow: 0px 1px 5px #00ccec;
+  }
+  input.input-submit {
+    background: orchid;
+    padding: 10px;
+    font-size: 20px;
+    width: 322px;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 3px;
+    color: white;
+    cursor: pointer;
+  }
+  label {
+    font-size: 37px;
+    margin-left: 10px;
+  }
+ .login {
+    color: white;
+    width: 520px;
+    margin: auto;
+    padding: 20px 5px;
+    background: #1f2e67;
+    box-shadow: 0px 4px 21px #5b4d92;
+  }
